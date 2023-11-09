@@ -5,8 +5,5 @@
 </div>
 
 # Links
-**[Download From BetterDiscord](https://betterdiscord.app/theme/Dark++)** <br>
-**<a href="https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist/releases/download/Dark%2Bv2/Dark+-Default-Member-List.theme.css">Download Dark+ with Defualt Memberlist</a>** <br>
-**[Discord]([https://discord.gg/U65b58FtJr])** <br>
-**[Theme]([https://github.com/CapnKitten/Material-Discord])** <br>
+**<a href="https://github.com/CapnKitten/Material-Discord">Download Dark+ with Defualt Memberlist</a>** <br>
 
