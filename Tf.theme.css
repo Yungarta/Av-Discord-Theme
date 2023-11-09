@@ -1,0 +1,46 @@
+/**
+ * @name TF
+ * @version 1.0
+ * @description TF Discord Theme
+ * @website https://discord.gg/U65b58FtJr
+ * @invite U65b58FtJr
+*/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --accent-hue: 34;
+  --accent-saturation: 100%;
+  --accent-lightness: 50%;
+  --accent-text-color: #FFFFFF;
+  --avatar-radius: 20%;
+  --undefined: 0;
+  --message-radius: 20px;
+  --message-padding-top: 8px;
+  --message-padding-side: 12px;
+  --undefined: 0;
+  --media-radius: 19px;
+  --undefined: 0;
+  --card-radius: 8px;
+  --card-radius-big: 18px;
+  --popout-radius: 8px;
+  --popout-radius-big: 18px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 3px;
+  --rs-medium-width: 3px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
