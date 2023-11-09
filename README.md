@@ -5,5 +5,5 @@
 </div>
 
 # Links
-**<a href="https://github.com/CapnKitten/Material-Discord">Download Dark+ with Defualt Memberlist</a>** <br>
+**<a href="https://github.com/CapnKitten/Material-Discord">Default Theme</a>** <br>
 
