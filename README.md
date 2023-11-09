@@ -4,6 +4,6 @@
 <a align="center" href="https://discord.gg/U65b58FtJr" rel="nofollow"><img align="center" src="https://img.shields.io/discord/763094597454397490?color=5865F2&labelColor=white&label=Support%20Server&logo=Discord" style="max-width: 100%;"></a>
 </div>
 
-# Links
-**<a align="center" href="https://github.com/CapnKitten/Material-Discord">Default Theme</a>** <br>
+<h1 align="center">Links</h1>
+**<a href="https://github.com/CapnKitten/Material-Discord">Default Theme</a>** <br>
 
