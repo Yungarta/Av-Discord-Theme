@@ -5,5 +5,5 @@
 </div>
 
 # Links
-**<a href="https://github.com/CapnKitten/Material-Discord">Default Theme</a>** <br>
+**<a align="center" href="https://github.com/CapnKitten/Material-Discord">Default Theme</a>** <br>
 
